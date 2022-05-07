@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: 'https://websitexxx.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://bogdown21.netlify.app/' # Website URL
+copyright: '' # blogdown21 series from J Sloane, e.g. '© {2022} EuCG'
 
 ############################
 ## LANGUAGE
