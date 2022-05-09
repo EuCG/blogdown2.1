@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: earth
-day_night: true
+theme: ocean
+day_night: false
 font: ''
 font_size: L
 
@@ -21,17 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: test@example.org
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 
 contact_links:
   - icon: twitter
@@ -123,17 +112,7 @@ comments:
     show_count: true
   commento:
     url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
+
 marketing:
   google_analytics: ''
   google_tag_manager: ''
