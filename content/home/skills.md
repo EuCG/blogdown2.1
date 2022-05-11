@@ -16,18 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 'Working with R for a few years now'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 'Where would we all be without them..!'
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 'The <a href = "https://qgis.org/en/site/"
+target="_blank" rel="noopener noreferrer" style="color:#F76F8E">perfect tool</a> for a cartographer'
+  icon: qgis-icon
+  icon_pack: custom
+  name: QGIS
+
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
@@ -36,10 +38,11 @@ feature:
 #  description = "100%"  
 
 # Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if #necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon = "your-custom-icon-name"
+#
+#- icon = "qgis-icon"
 #  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+#name = "QGIS"
+#  description = "10%"
 ---
