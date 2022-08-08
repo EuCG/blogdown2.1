@@ -16,7 +16,7 @@ interests:
 
 organizations:
 - name: EPRS
-  url: https://ep.europa.eu/
+  url: 
 role: Data Specialist
 social:
 - icon: envelope
@@ -33,7 +33,7 @@ superuser: true
 title: Eulalia Claros
 ---
 
-Eulalia is an EU official of long date... long enough that she still retains it as good taste to carelessly mention it. Now concentrating on the opening access to data and information as tool for promoting participatory citizenship.
+I have been working as an EU official long enough to still retain it as good taste mentioning it quite carelessly... Now concentrating on the opening access to data and information as tool for promoting participatory citizenship.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
