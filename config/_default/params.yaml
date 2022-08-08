@@ -6,7 +6,7 @@
 # Appearance
 
 theme: ocean
-day_night: false
+day_night: true
 font: ''
 font_size: L
 
@@ -39,7 +39,7 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: truee
   show_search: true
   highlight_active_link: true
 
@@ -124,4 +124,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: truee
