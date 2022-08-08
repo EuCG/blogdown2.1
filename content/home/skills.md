@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 'The <a href = "https://qgis.org/en/site/"
 target="_blank" rel="noopener noreferrer" style="color:#F76F8E">perfect tool</a> for a cartographer'
-  icon: qgis-icon
+  icon: qgis-icon 
   icon_pack: custom
   name: QGIS
 
@@ -38,9 +38,9 @@ target="_blank" rel="noopener noreferrer" style="color:#F76F8E">perfect tool</a>
 #  description = "100%"  
 
 # Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if #necessary.
+# Place custom SVG icon in `assets/media/icons/`, creating folders if #necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#
+# QGIS icon copied into assets/media/icons as per  #https://wowchemy.com/docs/widget/featurette/
 #- icon = ":qgis-icon:"
 #  icon_pack = "custom"
 #  name = "QGIS"
