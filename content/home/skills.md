@@ -41,8 +41,8 @@ target="_blank" rel="noopener noreferrer" style="color:#F76F8E">perfect tool</a>
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if #necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 #
-- icon : "qgis-icon"
+#- icon = ":qgis-icon:"
 #  icon_pack = "custom"
-#name = "QGIS"
+#  name = "QGIS"
 #  description = "10%"
 ---

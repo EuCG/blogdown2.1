@@ -36,4 +36,4 @@ title: Eulalia Claros
 I have been working as an EU official long enough to still retain it as good taste mentioning it quite carelessly... Now concentrating on the opening access to data and information as tool for promoting participatory citizenship.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref #"uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
