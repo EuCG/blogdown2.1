@@ -1,44 +1,38 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Jaan Soone
+date: "2022-03-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: EPThinkTank
+  url: https://epthinktank.eu/
 projects:
 - internal-project
-publication: ""
+publication: "At a glance Infographic"
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2022-03-07T00:00:00Z"
+#slides: example
+summary: Brief overview of the targets set by the European Commission, types of fuels considered in the proposal, and their sustainability, market readiness, feedstock availability, production pathways and production cost projections
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: EPRS At a glance Infographic on Sustainable Aviation Fuels
+#url_code: '#'
+#url_dataset: '#'
+url_pdf: https://www.europarl.europa.eu/RegData/etudes/ATAG/2022/729333/EPRS_ATA(2022)729333_EN.pdf
+# url_poster: '#'
+# url_project: ""
+# url_slides: ""
+# url_source: '#'
+# url_video: '#'
 ---
 
 {{% callout note %}}
